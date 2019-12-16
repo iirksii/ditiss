@@ -1,0 +1,2 @@
+# ditiss
+my first git
